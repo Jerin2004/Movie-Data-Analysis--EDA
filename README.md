@@ -1,6 +1,6 @@
 # Netflix Movie Data Analysis Project
 
-![Netflix Logo](path-to-your-netflix-logo-in-repo)
+![Netflix Logo]()
 
 ## Overview
 This project explores a dataset of Netflix movies to uncover key trends and insights that aid in understanding the platform's content landscape. The project uses Python for data manipulation and visualization to answer questions such as:
